@@ -22,7 +22,6 @@ playwright-report/
 trace.zip
 *.png
 *.webm
-*.json
 
 # Compiled TypeScript files
 dist/
@@ -36,5 +35,4 @@ dist/
 
 # Lock files
 yarn.lock
-package-lock.json
 pnpm-lock.yaml
