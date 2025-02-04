@@ -28,4 +28,3 @@ Ensure you have the following installed on your system:
 3. Run tests
    ```bash 
    npx playwright test
-dsf
